@@ -2,7 +2,8 @@
     'use strict';  
   
     var all_presets = [  
-        { name: '🌍 Jacred Public (Основний)', type: 'jackett', url: 'https://jacred.stream', key: 'pp' }  
+        { name: '🌍 Jacred Public (Основний)', type: 'jackett', url: 'https://jacred.stream', key: 'pp' },
+        { name: '🏠 Jackett Novanetua (Приватний)', type: 'jackett', url: 'https://jackett.framo.fun', key: 'o2naf4su26omf2hp500gv8aec5yimaza' }
     ];  
   
     function applyPreset(preset) {  
